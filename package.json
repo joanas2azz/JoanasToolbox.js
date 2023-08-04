@@ -1,7 +1,7 @@
 {
-  "name": "mytemplate.js",
+  "name": "joanastoolbox.js",
   "description": "My simple NodeJS template repository",
-  "homepage": "https://github.com/joanas2azz/mytemplate.js#readme",
+  "homepage": "https://github.com/joanas2azz/joanastoolbox.js#readme",
   "version": "1.0.0",
   "main": "./sources/index.js",
   "author": "joanas2azz",
@@ -13,17 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joanas2azz/mytemplate.js.git"
+    "url": "git+https://github.com/joanas2azz/joanastoolbox.js.git"
   },
   "bugs": {
-    "url": "https://github.com/joanas2azz/mytemplate.js/issues"
+    "url": "https://github.com/joanas2azz/joanastoolbox.js/issues"
   },
-  "keywords": [
-    "joanas2azz",
-    "NodeJS",
-    "JavaScript",
-    "Template"
-  ],
+  "keywords": ["joanas2azz", "NodeJS", "JavaScript", "toolbox"],
   "devDependencies": {
     "nodemon": "^3.0.1",
     "prettier": "^3.0.1"
