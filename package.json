@@ -1,0 +1,31 @@
+{
+  "name": "mytemplate.js",
+  "description": "My simple NodeJS template repository",
+  "homepage": "https://github.com/joanas2azz/mytemplate.js#readme",
+  "version": "1.0.0",
+  "main": "./sources/index.js",
+  "author": "joanas2azz",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon .",
+    "lint": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanas2azz/mytemplate.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joanas2azz/mytemplate.js/issues"
+  },
+  "keywords": [
+    "joanas2azz",
+    "NodeJS",
+    "JavaScript",
+    "Template"
+  ],
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.1"
+  }
+}
