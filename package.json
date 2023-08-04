@@ -18,7 +18,12 @@
   "bugs": {
     "url": "https://github.com/joanas2azz/joanastoolbox.js/issues"
   },
-  "keywords": ["joanas2azz", "NodeJS", "JavaScript", "toolbox"],
+  "keywords": [
+    "joanas2azz",
+    "NodeJS",
+    "JavaScript",
+    "toolbox"
+  ],
   "devDependencies": {
     "nodemon": "^3.0.1",
     "prettier": "^3.0.1"
