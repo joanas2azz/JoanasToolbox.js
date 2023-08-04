@@ -1,6 +1,6 @@
 {
   "name": "@joanas2azz/joanastoolbox.js",
-  "description": "My simple NodeJS template repository",
+  "description": "A toolbox in JavaScript for NodeJS",
   "homepage": "https://github.com/joanas2azz/joanastoolbox.js#readme",
   "version": "1.0.0",
   "main": "./sources/index.js",
