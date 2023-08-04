@@ -2,4 +2,4 @@ class SnowflakeUtil {
   constructor() {}
 }
 
-module.exports = SnowflakeUtil
+module.exports = SnowflakeUtil;
