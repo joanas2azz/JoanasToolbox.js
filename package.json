@@ -2,7 +2,7 @@
   "name": "@joanas2azz/joanastoolbox.js",
   "description": "A toolbox in JavaScript for NodeJS",
   "homepage": "https://github.com/joanas2azz/joanastoolbox.js#readme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./sources/index.js",
   "author": "joanas2azz",
   "license": "GPL-3.0",
@@ -22,7 +22,9 @@
     "joanas2azz",
     "NodeJS",
     "JavaScript",
-    "toolbox"
+    "Toolbox",
+    "Mastercard",
+    "Snowflake"
   ],
   "devDependencies": {
     "nodemon": "^3.0.1",

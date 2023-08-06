@@ -3,7 +3,7 @@
 `npm i @joanas2azz/joanastoolbox.js`
 
 ```js
-const JoanasToolbox = require('joanastoolbox'); // Module importation
+const JoanasToolbox = require('@joanas2azz/joanastoolbox.js'); // Module importation
 ```
 
 ### MasterCardGenerator
