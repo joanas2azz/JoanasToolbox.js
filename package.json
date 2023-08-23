@@ -1,8 +1,8 @@
 {
-  "name": "@joanas2azz/joanastoolbox.js",
+  "name": "joanastoolbox.js",
   "description": "A toolbox in JavaScript for NodeJS",
   "homepage": "https://github.com/joanas2azz/joanastoolbox.js#readme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./sources/index.js",
   "author": "joanas2azz",
   "license": "GPL-3.0",
