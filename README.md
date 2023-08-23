@@ -1,9 +1,9 @@
 # JoanasToolbox
 
-`npm i @joanas2azz/joanastoolbox.js`
+`npm i joanastoolbox.js`
 
 ```js
-const JoanasToolbox = require('@joanas2azz/joanastoolbox.js'); // Module importation
+const JoanasToolbox = require('joanastoolbox.js'); // Module importation
 ```
 
 ### MasterCardGenerator
@@ -33,7 +33,7 @@ Generates a random MasterCard number following the MasterCard number structure.
 **Example:**
 
 ```javascript
-const { MasterCardGenerator } = require('@joanas2azz/joanastoolbox.js');
+const { MasterCardGenerator } = require('joanastoolbox.js');
 
 const mastercard = new MasterCardGenerator();
 const cardNumber = mastercard.generate();
@@ -108,7 +108,7 @@ Sets a new epoch timestamp for generating snowflake IDs.
 **Example:**
 
 ```javascript
-const { SnowflakeUtil } = require('@joanas2azz/joanastoolbox.js');
+const { SnowflakeUtil } = require('joanastoolbox.js');
 
 const snowflake = new SnowflakeUtil();
 snowflake.setEpoch(1_650_000_000_000);
