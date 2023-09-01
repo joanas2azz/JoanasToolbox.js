@@ -2,7 +2,7 @@
   "name": "joanastoolbox.js",
   "description": "A toolbox in JavaScript for NodeJS",
   "homepage": "https://github.com/joanas2azz/joanastoolbox.js#readme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./sources/index.js",
   "author": "joanas2azz",
   "license": "GPL-3.0",
